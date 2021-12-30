@@ -4,8 +4,8 @@ from datetime import datetime, timedelta
 import os
 
 BINANCE = {
-  "key": "3twyIVmgSoinkU39hx2Mubt8bREk3O2k2lSfw29LNDfw7u57twEUNQLbvQiJBTVu",
-  "secret": "AY01aIZp5yB77sfXnqx34xDvz9xdq0HvZK6evRFze8QWAEdYG5uyDRPsjocUW3Mv"
+  "key": "",
+  "secret": ""
 }
 
 
