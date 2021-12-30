@@ -134,6 +134,8 @@ def click(clickData1,clickData2,save,cancel):
         df['SELL'] = 0
         df['BUY'].loc[list(set(x_buy))] = 1
         df['SELL'].loc[list(set(x_sell))] = 1
+        if not os.path.exists('./LABELED_DATA'):
+            os.mkdir('./LABELED_DATA')
         df.to_csv('./LABELED_DATA/{}.csv'.format(title), index=False)
         x_buy, x_sell, y_buy, y_sell = [], [], [], []
 
