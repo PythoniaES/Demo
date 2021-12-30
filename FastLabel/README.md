@@ -20,3 +20,7 @@ BINANCE = {
   "secret": "AY01aI584hyB77sfXnqx34xDvz9xdhfddfHvZK6evRFze8QWAEdYdhdfdfhDRPsjocUW3Mv"
 }
 ```
+
+If you are not subscribed to Binance, you can do so by clicking [here](quora.com/profile/Ashish-Kulkarni-100) 
+
+To generate *api key* and *api secret* follow this [guide](quora.com/profile/Ashish-Kulkarni-100) 
