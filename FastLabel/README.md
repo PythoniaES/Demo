@@ -21,6 +21,6 @@ BINANCE = {
 }
 ```
 
-If you are not subscribed to Binance, you can do so by clicking [here](quora.com/profile/Ashish-Kulkarni-100) 
+If you do not have a binance account click [here](https://accounts.binance.com/it/register?ref=78053081)  to register
 
-To generate *api key* and *api secret* follow this [guide](quora.com/profile/Ashish-Kulkarni-100) 
+To generate *api key* and *api secret* follow this [guide](https://www.binance.com/it/support/faq/360002502072) 
